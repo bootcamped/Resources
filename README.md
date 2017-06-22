@@ -51,7 +51,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Precalculus and Discrete Mathemetics](https://www.amazon.com/Precalculus-Discrete-Mathematics-Anthony-Peressini/dp/0076214214/)
  * [Book - AoPS Intro to Number Theory](https://www.amazon.com/gp/product/B0083C8ZNG/)
  * [Book - AoPS Vol 1: The Basics](https://www.amazon.com/Art-Problem-Solving-Vol-Basics/dp/0977304566/)
- * [Art of Prolblem Solving](http://artofproblemsolving.com)
+ * [Art of Problem Solving](http://artofproblemsolving.com)
 
 
 ## Salary
