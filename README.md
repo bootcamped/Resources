@@ -3,18 +3,18 @@
 Useful resources we've found that are worth sharing and remembering.
 
 
-# Aggregations
+## Aggregations
 
  * [The Morning Paper](https://blog.acolyer.org/)
 
 
-# C/C++
+## C/C++
 
  * [Book - Object Oriented Programming witih C++](https://www.amazon.com/dp/0199459630/)
  * [Book - Introduction to C Programming](https://www.amazon.com/dp/0199452059/)
  
  
-# Career Development
+## Career Development
 
  * [Becoming T-Shaped](https://mdswanson.com/blog/2013/07/30/on-t-shaped-people.html)
  * [Can you mentor me..?](https://startupsutras.org/can-you-mentor-me-fe826d2b3675)
@@ -24,19 +24,19 @@ Useful resources we've found that are worth sharing and remembering.
  * [Mythical Man Month - Cliff Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html)
 
 
-# Data Structures
+## Data Structures
 
  * [Book - Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
  * [Book - Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
  
  
-# Distributed Computing
+## Distributed Computing
 
  * [Book - High Performance Cluster Computing: Architectures and Systems Vol 1](https://www.amazon.com/gp/product/0130137847/)
  * [Book - High Performance Cluster Computing: Programming and Applications Vol 2](https://www.amazon.com/gp/product/0130137855/)
  
 
-# Javascript
+## Javascript
 
  * [A Gentle Explaination of `this` in Javascript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
  * [ByteSized TV](https://bytesized.tv)
@@ -45,7 +45,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
  
 
-# Math
+## Math
 
  * [Book - Book of Proof](https://www.amazon.com/Book-Proof-Richard-Hammack/dp/0989472108/)
  * [Book - Precalculus and Discrete Mathemetics](https://www.amazon.com/Precalculus-Discrete-Mathematics-Anthony-Peressini/dp/0076214214/)
@@ -54,19 +54,19 @@ Useful resources we've found that are worth sharing and remembering.
  * [Art of Prolblem Solving](http://artofproblemsolving.com)
 
 
-# Salary
+## Salary
 
  * [Wage Distribution](https://datausa.io/profile/soc/151131/#wage_distribution)
  
 
-# Software Engineering
+## Software Engineering
 
  * [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
  * [Is Design Dead?](https://martinfowler.com/articles/designDead.html)
  * [Book - Computer Systems - A Programmer's Perspective](https://www.amazon.com/dp/013409266X/)
  
 
-# Startuping
+## Startuping
 
  * [Book - The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
  
