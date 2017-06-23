@@ -30,10 +30,12 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
  
  
-## Distributed Computing
+## Distributed / Parallel Computing
 
  * [Book - High Performance Cluster Computing: Architectures and Systems Vol 1](https://www.amazon.com/gp/product/0130137847/)
  * [Book - High Performance Cluster Computing: Programming and Applications Vol 2](https://www.amazon.com/gp/product/0130137855/)
+ * [Book - Art of Multiprocessor Programming, Revised](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376/)
+ * [Book - Handbook of Parallel Computing](https://www.amazon.com/Handbook-Parallel-Computing-Applications-Information-ebook/dp/B00A8SLW6U/)
  
 
 ## Javascript
