@@ -22,7 +22,9 @@ Useful resources we've found that are worth sharing and remembering.
  * [Stop, nobody is going to be your mentor](https://themission.co/stop-nobody-is-going-to-be-your-mentor-6a14d5aa2a13)
  * [Why successful people don't want to mentor you](https://www.iwillteachyoutoberich.com/blog/why-successful-people-dont-want-to-mentor-you/)
  * [Mythical Man Month - Cliff Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html)
-
+ * [LaTexResume](https://latexresu.me/)
+ * [Average to Googler in 4 Weeks](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri)
+ 
 
 ## Data Structures
 
