@@ -94,5 +94,5 @@ Useful resources we've found that are worth sharing and remembering.
 ## Webby Stuff
 
  * [Awesome React Components](https://github.com/brillout/awesome-react-components)
- * [Prime Faces (angular)](https://www.primefaces.org/)
+ * [Prime Faces (Various UI Frameworks)](https://www.primefaces.org/)
  
