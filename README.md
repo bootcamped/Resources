@@ -24,6 +24,11 @@ Useful resources we've found that are worth sharing and remembering.
  * [Mythical Man Month - Cliff Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html)
  * [LaTexResume](https://latexresu.me/)
  * [Average to Googler in 4 Weeks](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri)
+ * [How to Ace your Amazon Tech Interview](https://www.paysa.com/blog/2017/06/27/how-to-ace-your-amazon-tech-job-interview/)
+ * [Jr. Engineer's Job Search Strategy](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
+ * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+ * [Teach Yourself CS](https://teachyourselfcs.com/)
+ * [Youtube: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
  
 
 ## Data Structures
@@ -47,6 +52,17 @@ Useful resources we've found that are worth sharing and remembering.
  * [Classes, Complexity, and Functional Programming](https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747)
  * [NodeJS Study Notes](https://github.com/ievolved/NodeJS-Study-Notes)
  * [Book - Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+ 
+
+## Jobs
+
+ * [The Muse](http://themuse.com/jobs/)
+ * [Indeed](http://indeed.com)
+ * [Mashable](http://findjobs.mashable.com)
+ * [Built in NYC](http://builtinnyc.com/jobs)
+ * [Angel List](http://angellist.co)
+ * [Slack at Work](http://slackatwork.com)
+ * [Ask HN: Who's Hiring?](https://news.ycombinator.com/item?id=14688684)
  
 
 ## Math
@@ -74,4 +90,9 @@ Useful resources we've found that are worth sharing and remembering.
 
  * [Book - The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
  
+
+## Webby Stuff
+
+ * [Awesome React Components](https://github.com/brillout/awesome-react-components)
+ * [Prime Faces (angular)](https://www.primefaces.org/)
  
