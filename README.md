@@ -11,9 +11,10 @@ Useful resources we've found that are worth sharing and remembering.
 ## Amazon Cloudy Stuff
 
  * [PDF - Deploying a Web Applicaiton](http://docs.aws.amazon.com/gettingstarted/latest/deploy/awsgsg-deploy.pdf)
+ * [Setting up an EC2 Instance](http://marcreicher.github.io/aws-setting-up-an-ec2-instance/)
+ * [AWS Deployment with Custom Domain Name and NGINX](https://medium.com/@chaddbennett/easy-aws-setup-2456146d3aa0#.ld34ejift)
  
  
-
 ## C/C++
 
  * [Book - Object Oriented Programming witih C++](https://www.amazon.com/dp/0199459630/)
