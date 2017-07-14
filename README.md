@@ -8,6 +8,12 @@ Useful resources we've found that are worth sharing and remembering.
  * [The Morning Paper](https://blog.acolyer.org/)
 
 
+## Amazon Cloudy Stuff
+
+ * [PDF - Deploying a Web Applicaiton](http://docs.aws.amazon.com/gettingstarted/latest/deploy/awsgsg-deploy.pdf)
+ 
+ 
+
 ## C/C++
 
  * [Book - Object Oriented Programming witih C++](https://www.amazon.com/dp/0199459630/)
@@ -29,6 +35,11 @@ Useful resources we've found that are worth sharing and remembering.
  * [System Design Primer](https://github.com/donnemartin/system-design-primer)
  * [Teach Yourself CS](https://teachyourselfcs.com/)
  * [Youtube: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+ 
+ 
+## Database
+
+ * [How to GraphQL](https://www.howtographql.com/)
  
 
 ## Data Structures
@@ -74,6 +85,23 @@ Useful resources we've found that are worth sharing and remembering.
  * [Art of Problem Solving](http://artofproblemsolving.com)
 
 
+# Misc
+
+ * [GraphQL vs REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b?gi=4de426066476)
+ 
+ 
+# NodeJS
+
+ * [X2 Framework for NodeJS](http://boylesoftware.com/blog/x2-framework-node-js/)
+ * [Udemy - Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
+ * [Udemy - The Complete NodeJS Dev Course 2nd](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
+ * [Book - Deploying NodeJS](https://www.amazon.com/gp/product/1783981407)
+ * [Book - Securing Your NodeJS Application](https://www.amazon.com/gp/product/1680500856)
+ * [Book - High Peformance NodeJS](https://www.amazon.com/gp/product/1785286145)
+ * [Book - Write Modern Web Apps with the MEAN Stack](https://www.amazon.com/gp/product/0133930157)
+ 
+ 
+ 
 ## Salary
 
  * [Wage Distribution](https://datausa.io/profile/soc/151131/#wage_distribution)
@@ -89,6 +117,11 @@ Useful resources we've found that are worth sharing and remembering.
 ## Startuping
 
  * [Book - The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+ 
+ 
+## UI/UX
+
+ * [Adobe Experience Design BETA](http://www.adobe.com/products/experience-design.html)
  
 
 ## Webby Stuff
