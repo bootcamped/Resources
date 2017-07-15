@@ -75,6 +75,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Angel List](http://angellist.co)
  * [Slack at Work](http://slackatwork.com)
  * [Ask HN: Who's Hiring?](https://news.ycombinator.com/item?id=14688684)
+ * [Browser Console HN Job Search Script](https://gist.github.com/meiamsome/94c1aa5f0b431a21b5aa)
  
 
 ## Math
