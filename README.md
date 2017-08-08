@@ -36,8 +36,24 @@ Useful resources we've found that are worth sharing and remembering.
  * [System Design Primer](https://github.com/donnemartin/system-design-primer)
  * [Teach Yourself CS](https://teachyourselfcs.com/)
  * [Youtube: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+ * [30 Best Practices for SoftDev and Testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing?imm_mid=0f210a&cmp=em-prog-na-na-newsltr_20170527)
  
+
+## Coding
+
+ * [Book - Intro to Programming using Java](https://www.amazon.com/gp/product/0321498054/)
+ * [Book - Intro to Programming using Python](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/)
+ * [Book - Discovering Computer Science](https://www.amazon.com/gp/product/148225414X/)
  
+
+## Coding Competition
+
+ * [LeetCode](http://leetcode.com)
+ * [CodeWars](http://codewars.com)
+ * [CodinGame](http://codingame.com)
+ * [Codebat](http://codingbat.com)
+ 
+
 ## Database
 
  * [How to GraphQL](https://www.howtographql.com/)
@@ -64,6 +80,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Classes, Complexity, and Functional Programming](https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747)
  * [NodeJS Study Notes](https://github.com/ievolved/NodeJS-Study-Notes)
  * [Book - Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+ * [Book - The JS Way](https://github.com/bpesquet/thejsway/)
  
 
 ## Jobs
@@ -85,14 +102,17 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - AoPS Intro to Number Theory](https://www.amazon.com/gp/product/B0083C8ZNG/)
  * [Book - AoPS Vol 1: The Basics](https://www.amazon.com/Art-Problem-Solving-Vol-Basics/dp/0977304566/)
  * [Art of Problem Solving](http://artofproblemsolving.com)
+ * [Programming and Mathematical Thinking](https://www.amazon.com/Programming-Mathematical-Thinking-Introduction-Featuring/dp/1938159004/)
 
 
-# Misc
+## Misc
 
  * [GraphQL vs REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b?gi=4de426066476)
+ * [Difference between Terminal, TTY, Shell, Console](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
+ * [Is Abstraction Overrated in Programming?](https://www.quora.com/Is-abstraction-overrated-in-programming)
  
  
-# NodeJS
+## NodeJS
 
  * [X2 Framework for NodeJS](http://boylesoftware.com/blog/x2-framework-node-js/)
  * [Udemy - Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
@@ -102,12 +122,36 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - High Peformance NodeJS](https://www.amazon.com/gp/product/1785286145)
  * [Book - Write Modern Web Apps with the MEAN Stack](https://www.amazon.com/gp/product/0133930157)
  
+
+## Posts from Bootcamped's `The Daily`
+
+ 1. [Conversations with Technology Leaders](http://queue.acm.org/detail.cfm?id=3092954)
+ 2. [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
+ 3. [Mythical Man Month - Cliff's Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html)
+ 4. [An Argument for Automation](https://medium.com/@kentcdodds/an-argument-for-automation-fce8394c14e2)
+ 5. [What I Learned While Becoming a Tech Lead](https://www.thoughtworks.com/insights/blog/what-learned-while-becoming-tech-lead)
+ 6. [I'm a Boring Programming (and Proud of it)](https://m.signalvnoise.com/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe)
+ 7. [Semantic Diffusion](https://martinfowler.com/bliki/SemanticDiffusion.html)
+ 8. [The Junior Jump - Life After Bootcamp](https://blog.carbonfive.com/2014/03/03/the-junior-jump-life-after-coding-bootcamps/)
+ 9. [The Developer's Edge - How to Become a Sr. Developer](https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45)
+ 10. [Advice from Neil Gaiman for Prospective Programmers](https://medium.com/finite-state/advice-from-neil-gaiman-for-prospective-programmers-730a4c0b04e1)
+ 11. [Don't Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+ 
+ 
+## Regular Expressions
+
+ * (VerbalExpressions)[https://github.com/VerbalExpressions/JSVerbalExpressions]
  
  
 ## Salary
 
  * [Wage Distribution](https://datausa.io/profile/soc/151131/#wage_distribution)
  
+
+## Security
+
+ * [Snyk - Fix known security problems in NodeJS, Ruby, Java, and Python Apps](https://snyk.io/)
+
 
 ## Software Engineering
 
@@ -130,4 +174,5 @@ Useful resources we've found that are worth sharing and remembering.
 
  * [Awesome React Components](https://github.com/brillout/awesome-react-components)
  * [Prime Faces (Various UI Frameworks)](https://www.primefaces.org/)
+ * [Codrops](https://tympanus.net/codrops/)
  
