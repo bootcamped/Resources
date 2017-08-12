@@ -93,6 +93,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Slack at Work](http://slackatwork.com)
  * [Ask HN: Who's Hiring?](https://news.ycombinator.com/item?id=14688684)
  * [Browser Console HN Job Search Script](https://gist.github.com/meiamsome/94c1aa5f0b431a21b5aa)
+ * [Greppd](http://greppd.com/)
  
 
 ## Math
@@ -110,6 +111,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [GraphQL vs REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b?gi=4de426066476)
  * [Difference between Terminal, TTY, Shell, Console](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
  * [Is Abstraction Overrated in Programming?](https://www.quora.com/Is-abstraction-overrated-in-programming)
+ * [Are Bootcamp Grads Worth Hiring?](https://www.linkedin.com/pulse/bootcamp-grads-worth-hiring-shawn-bullock)
  
  
 ## NodeJS
@@ -136,6 +138,9 @@ Useful resources we've found that are worth sharing and remembering.
  9. [The Developer's Edge - How to Become a Sr. Developer](https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45)
  10. [Advice from Neil Gaiman for Prospective Programmers](https://medium.com/finite-state/advice-from-neil-gaiman-for-prospective-programmers-730a4c0b04e1)
  11. [Don't Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+ 12. [How Web Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+ 13. [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
+ 14. [Front End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
  
  
 ## Regular Expressions
@@ -158,11 +163,17 @@ Useful resources we've found that are worth sharing and remembering.
  * [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
  * [Is Design Dead?](https://martinfowler.com/articles/designDead.html)
  * [Book - Computer Systems - A Programmer's Perspective](https://www.amazon.com/dp/013409266X/)
+ * [Commuting with a Software Engineer Series](https://www.youtube.com/channel/UCGn67kWU8QXIFFa6ntfkRVQ)
  
-
+ 
 ## Startuping
 
  * [Book - The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+ 
+ 
+## System Design
+
+ * [via HiredInTech](https://www.hiredintech.com/courses/system-design)
  
  
 ## UI/UX
@@ -175,4 +186,5 @@ Useful resources we've found that are worth sharing and remembering.
  * [Awesome React Components](https://github.com/brillout/awesome-react-components)
  * [Prime Faces (Various UI Frameworks)](https://www.primefaces.org/)
  * [Codrops](https://tympanus.net/codrops/)
- 
+ * [Front-End Bookmarks](https://github.com/akikoo/frontend-dev-bookmarks)
+ * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
