@@ -37,6 +37,10 @@ Useful resources we've found that are worth sharing and remembering.
  * [Teach Yourself CS](https://teachyourselfcs.com/)
  * [Youtube: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
  * [30 Best Practices for SoftDev and Testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing?imm_mid=0f210a&cmp=em-prog-na-na-newsltr_20170527)
+ * [Cloud Training](http://acloud.guru)
+ * [Linux Academy](http://linuxacademy.com/)
+ * [John Somnez Complete Software Career Guide](https://devchat.cachefly.net/javascriptjabber/JSJ_270_The_Complete_Software_Developers_Career_Guide_with_John_Sonmez_mixdown.mp3)
+ 
  
 
 ## Coding
@@ -112,6 +116,10 @@ Useful resources we've found that are worth sharing and remembering.
  * [Difference between Terminal, TTY, Shell, Console](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
  * [Is Abstraction Overrated in Programming?](https://www.quora.com/Is-abstraction-overrated-in-programming)
  * [Are Bootcamp Grads Worth Hiring?](https://www.linkedin.com/pulse/bootcamp-grads-worth-hiring-shawn-bullock)
+ * [20 Essential Browser Extensions](http://www.creativebloq.com/features/20-essential-browser-extensions-for-web-pros)
+ * [Chrome extension: Context](https://chrome.google.com/webstore/detail/context/aalnjolghjkkogicompabhhbbkljnlka)
+ * [Chrome extension: Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
+ * [Elon Musk about what great communication looks like](https://www.inc.com/justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html)
  
  
 ## NodeJS
@@ -141,6 +149,13 @@ Useful resources we've found that are worth sharing and remembering.
  12. [How Web Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
  13. [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
  14. [Front End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
+ 15. [Designing for Simplicity](https://davidwalsh.name/designing-simplicity)
+ 16. [Test Driven Learning](http://www.toolshed.com/articles/2008-10-07-test-driven-lea.html)
+ 17. [Paul Grahams 5 Q's About Language Design](http://www.paulgraham.com/langdes.html)
+ 18. [Design and Evolution of C++](https://www.amazon.com/Design-Evolution-C-Bjarne-Stroustrup/dp/0201543303/)
+ 19. [Beware of Bloind Spots in Browser Capture Tools](http://blog.catchpoint.com/2012/01/25/beware-of-blind-spots-in-browser-network-capture-tools/)
+ 20. [Cartoon of WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+ 21. [Off-Canvas Pattern](https://www.smashingmagazine.com/2014/02/off-the-beaten-canvas-exploring-the-potential-of-the-off-canvas-pattern/)
  
  
 ## Regular Expressions
@@ -188,3 +203,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Codrops](https://tympanus.net/codrops/)
  * [Front-End Bookmarks](https://github.com/akikoo/frontend-dev-bookmarks)
  * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
+ * [Udemy - The complete ReactJS v2](https://www.udemy.com/react-2nd-edition/?couponCode=R2PROMO&utm_source=twitter&utm_campaign=launch-promo)
+ 
+ 
+ 
+ 
