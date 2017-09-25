@@ -61,6 +61,8 @@ Useful resources we've found that are worth sharing and remembering.
 ## Database
 
  * [How to GraphQL](https://www.howtographql.com/)
+ * [PostGreSQL Exercises](https://pgexercises.com)
+ * [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
  
 
 ## Data Structures
@@ -156,6 +158,15 @@ Useful resources we've found that are worth sharing and remembering.
  19. [Beware of Bloind Spots in Browser Capture Tools](http://blog.catchpoint.com/2012/01/25/beware-of-blind-spots-in-browser-network-capture-tools/)
  20. [Cartoon of WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
  21. [Off-Canvas Pattern](https://www.smashingmagazine.com/2014/02/off-the-beaten-canvas-exploring-the-potential-of-the-off-canvas-pattern/)
+ 22. [IS MVC dead on the front-end?](https://medium.freecodecamp.org/is-mvc-dead-for-the-frontend-35b4d1fe39ec)
+ 23. [To understand inequality, consider two janitors at the top companies then and now](https://www.nytimes.com/2017/09/03/upshot/to-understand-rising-inequality-consider-the-janitors-at-two-top-companies-then-and-now.html)
+ 24. [The Psychology Principles Every UI/UX Designer Needs to Know](https://uxplanet.org/the-psychology-principles-every-ui-ux-designer-needs-to-know-24116fd65778)
+ 24. [Bootcamps vs. College](https://triplebyte.com/blog/bootcamps-vs-college)
+ 25. [Boring, Complex and Important: a Recipe for the Web's Dire Future](http://www.wired.co.uk/article/w3c-eff-open-standards-web-cory-doctorow?utm_content=bufferdf99c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+ 26. [8 of 10 self-made millionaires were not students](https://www.inc.com/jeff-haden/8-of-10-self-made-millionaires-were-not-a-students-instead-they-share-this-trait.html)
+ 27. [What have you learned after working at Facebook for 2 years?](https://hashnode.com/post/what-have-you-learned-after-working-at-facebook-for-almost-two-years-have-you-grown-as-a-developer-and-what-are-some-of-the-key-takeaways-cj7q3gkjx019xkhwujchsrtho/answer/cj7rulcbr023dm0wu08cv4x7f)
+ 28. [The FCC is leading us towards Catastrophe](https://www.wired.com/2017/04/the-fcc-is-leading-us-toward-catastrophe/?mbid=social_fb)
+ 
  
  
 ## Regular Expressions
@@ -204,6 +215,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Front-End Bookmarks](https://github.com/akikoo/frontend-dev-bookmarks)
  * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
  * [Udemy - The complete ReactJS v2](https://www.udemy.com/react-2nd-edition/?couponCode=R2PROMO&utm_source=twitter&utm_campaign=launch-promo)
+ * [Geo for Bootstrap, a timeless theme](http://code.divshot.com/geo-bootstrap/)
  
  
  
