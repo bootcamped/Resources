@@ -102,6 +102,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - The JS Way](https://github.com/bpesquet/thejsway/)
  * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
  * [YouTube - JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+ * [ESLint - Pluggable Javascript Linter](https://eslint.org/)
+ * [ESLint - List of Available Rules](https://eslint.org/docs/rules/)
  
 
 ## Jobs
