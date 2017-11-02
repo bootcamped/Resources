@@ -6,7 +6,8 @@ Useful resources we've found that are worth sharing and remembering.
 ## Aggregations
 
  * [The Morning Paper](https://blog.acolyer.org/)
-
+ * [47 Newsletters for Programmers and Developers](https://www.loggly.com/blog/newsletters-for-developers-and-programmers/?utm_source=LinkInPost&utm_medium=social-media&utm_campaign=SocialPush)
+ 
 
 ## Amazon Cloudy Stuff
 
