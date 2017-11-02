@@ -149,6 +149,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Securing Your NodeJS Application](https://www.amazon.com/gp/product/1680500856)
  * [Book - High Peformance NodeJS](https://www.amazon.com/gp/product/1785286145)
  * [Book - Write Modern Web Apps with the MEAN Stack](https://www.amazon.com/gp/product/0133930157)
+ * [NodeJS For Mobile Apps](http://www.janeasystems.com/blog/announcing-node-js-mobile-apps-true-node-js-runtime-android-ios/)
  
 
 ## Posts from Bootcamped's `The Daily`
