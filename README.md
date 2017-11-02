@@ -40,7 +40,12 @@ Useful resources we've found that are worth sharing and remembering.
  * [Cloud Training](http://acloud.guru)
  * [Linux Academy](http://linuxacademy.com/)
  * [John Somnez Complete Software Career Guide](https://devchat.cachefly.net/javascriptjabber/JSJ_270_The_Complete_Software_Developers_Career_Guide_with_John_Sonmez_mixdown.mp3)
- 
+ * [200 Universities Just Launched 560 Free Online Courses](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
+ * [P1XT Programming Curriculum Guides](https://github.com/P1xt/p1xt-guides)
+ * [Trello Board - Teach Yourself Computer Science](https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science/)
+ * [How to Build a Career in Tech](https://books.producthunt.com/careers)
+ * [How I Landed My Post-Bootcamp Software Developer Job in Just Seven Weeks](https://medium.com/@sophiaciocca/how-i-landed-my-post-bootcamp-software-developer-job-in-just-seven-weeks-7b213c1bb867)
+ * [Practice Live Coding Interviews](https://www.pramp.com/invt/dmo0XBbr5WFoB7ZrEqLO)
  
 
 ## Coding
@@ -63,7 +68,9 @@ Useful resources we've found that are worth sharing and remembering.
  * [How to GraphQL](https://www.howtographql.com/)
  * [PostGreSQL Exercises](https://pgexercises.com)
  * [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
- 
+ * [Book - SQL Performance Explained](https://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/)
+ * [Book - SQL Antipatterns: Avoiding Pitfalls of Database Programming](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)
+
 
 ## Data Structures
 
@@ -79,6 +86,11 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Handbook of Parallel Computing](https://www.amazon.com/Handbook-Parallel-Computing-Applications-Information-ebook/dp/B00A8SLW6U/)
  
 
+## Images (Stock)
+
+ * [List of Sites for High End Images to Use in Website](https://news.ycombinator.com/item?id=15602538)
+
+
 ## Javascript
 
  * [A Gentle Explaination of `this` in Javascript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
@@ -87,6 +99,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [NodeJS Study Notes](https://github.com/ievolved/NodeJS-Study-Notes)
  * [Book - Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
  * [Book - The JS Way](https://github.com/bpesquet/thejsway/)
+ * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+ * [YouTube - JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
  
 
 ## Jobs
@@ -122,6 +136,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Chrome extension: Context](https://chrome.google.com/webstore/detail/context/aalnjolghjkkogicompabhhbbkljnlka)
  * [Chrome extension: Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
  * [Elon Musk about what great communication looks like](https://www.inc.com/justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html)
+ * [Developer Cheat Sheets](https://devhints.io/)
+ * [Best FrontEnd Hacking Cheat Sheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
  
  
 ## NodeJS
@@ -166,7 +182,20 @@ Useful resources we've found that are worth sharing and remembering.
  26. [8 of 10 self-made millionaires were not students](https://www.inc.com/jeff-haden/8-of-10-self-made-millionaires-were-not-a-students-instead-they-share-this-trait.html)
  27. [What have you learned after working at Facebook for 2 years?](https://hashnode.com/post/what-have-you-learned-after-working-at-facebook-for-almost-two-years-have-you-grown-as-a-developer-and-what-are-some-of-the-key-takeaways-cj7q3gkjx019xkhwujchsrtho/answer/cj7rulcbr023dm0wu08cv4x7f)
  28. [The FCC is leading us towards Catastrophe](https://www.wired.com/2017/04/the-fcc-is-leading-us-toward-catastrophe/?mbid=social_fb)
- 
+ 29. [How to Buid an Online Presence As a Jr Developer](https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer)
+ 30. [Tech's Push to Teach Coding Isn't About Kids' Success: It's About Cutting Wages](https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages)
+ 31. [The Coming Software Apocolypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/?utm_source=digg&utm_medium=email)
+ 32. [Why SQL is Beathing NoSQL and What This Means for the Future of Data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
+ 33. [How To Learn in 2 Days What Normally Takes 6 Months](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-a3c27c0fa6e1)
+ 34. [There Has Never Beend a Right to Absolute Privacy](http://www.theregister.co.uk/2017/10/11/deputy_us_ag_rosenstein_encryption_isnt_free_speech/)
+ 35. [Facebooks React Native Has changed the Rules of App Development](https://www.entrepreneur.com/article/302832)
+ 36. [Who's to Blame? (v0.1)](https://hackernoon.com/whos-to-blame-v0-1-456403c2bc52)
+ 37. [Screen Sharing in Slack Made Interactive](https://slackhq.com/screen-sharing-in-slack-made-interactive-cf8816efaa01)
+ 38. [Agile/Scrum/Kanban? Are These Pokemon?](https://medium.com/@elbincodes/agile-scrum-kanban-are-these-pokemon-de8f32b64817)
+ 39. [How Awesome Deveopers Ask For Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7)
+ 40. [Advice for Early Career Developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
+ 41. [What to Say When an Interviewer Asks: Where Do You See Yourself in 5 Years](https://www.cnbc.com/2017/10/31/how-to-answer-the-interview-question-where-do-you-see-yourself-in-5-years.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEXRMj1t7Rqm4PcWIxBCWPw%3D%3D)
+ 42. [What its Like to Be A Developer At...](https://increment.com/development/what-its-like-to-be-a-developer-at/)
  
  
 ## Regular Expressions
@@ -190,6 +219,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Is Design Dead?](https://martinfowler.com/articles/designDead.html)
  * [Book - Computer Systems - A Programmer's Perspective](https://www.amazon.com/dp/013409266X/)
  * [Commuting with a Software Engineer Series](https://www.youtube.com/channel/UCGn67kWU8QXIFFa6ntfkRVQ)
+ * [Learn Ruby with Edgecase Ruby Koans](http://rubykoans.com/)
  
  
 ## Startuping
@@ -205,6 +235,8 @@ Useful resources we've found that are worth sharing and remembering.
 ## UI/UX
 
  * [Adobe Experience Design BETA](http://www.adobe.com/products/experience-design.html)
+ * [36 Useful Resources for UI/UX Designers](https://dev.to/iriskatastic/36-useful-resources-for-ui-and-ux-designers-61h) 
+ * [5 Design Books Every UX Designer Should Read](https://uxplanet.org/5-design-books-every-ux-designer-should-read-b4f81361d02c?gi=8c7348b5c528)
  
 
 ## Webby Stuff
@@ -216,6 +248,10 @@ Useful resources we've found that are worth sharing and remembering.
  * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
  * [Udemy - The complete ReactJS v2](https://www.udemy.com/react-2nd-edition/?couponCode=R2PROMO&utm_source=twitter&utm_campaign=launch-promo)
  * [Geo for Bootstrap, a timeless theme](http://code.divshot.com/geo-bootstrap/)
+ * [HTML Web Components Using Vanilla JS](https://ayushgp.github.io/html-web-components-using-vanilla-js/)
+ * [Client-Side vs Server-Side Rendering: Why it's Not All Black and White](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d)
+ * [Responsive Design Best Practices](https://uxplanet.org/responsive-design-best-practices-c6d3f5fd163b)
+ * [Web Development Explained to a Time Traveler from 10 Years Ago](https://medium.freecodecamp.org/web-development-explained-to-a-time-traveler-from-ten-years-ago-600fad81170d)
  
  
  
