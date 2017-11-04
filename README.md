@@ -7,21 +7,21 @@ Useful resources we've found that are worth sharing and remembering.
 
  * [The Morning Paper](https://blog.acolyer.org/)
  * [47 Newsletters for Programmers and Developers](https://www.loggly.com/blog/newsletters-for-developers-and-programmers/?utm_source=LinkInPost&utm_medium=social-media&utm_campaign=SocialPush)
- 
+
 
 ## Amazon Cloudy Stuff
 
  * [PDF - Deploying a Web Applicaiton](http://docs.aws.amazon.com/gettingstarted/latest/deploy/awsgsg-deploy.pdf)
  * [Setting up an EC2 Instance](http://marcreicher.github.io/aws-setting-up-an-ec2-instance/)
  * [AWS Deployment with Custom Domain Name and NGINX](https://medium.com/@chaddbennett/easy-aws-setup-2456146d3aa0#.ld34ejift)
- 
- 
+
+
 ## C/C++
 
  * [Book - Object Oriented Programming witih C++](https://www.amazon.com/dp/0199459630/)
  * [Book - Introduction to C Programming](https://www.amazon.com/dp/0199452059/)
- 
- 
+
+
 ## Career Development
 
  * [Becoming T-Shaped](https://mdswanson.com/blog/2013/07/30/on-t-shaped-people.html)
@@ -47,14 +47,16 @@ Useful resources we've found that are worth sharing and remembering.
  * [How to Build a Career in Tech](https://books.producthunt.com/careers)
  * [How I Landed My Post-Bootcamp Software Developer Job in Just Seven Weeks](https://medium.com/@sophiaciocca/how-i-landed-my-post-bootcamp-software-developer-job-in-just-seven-weeks-7b213c1bb867)
  * [Practice Live Coding Interviews](https://www.pramp.com/invt/dmo0XBbr5WFoB7ZrEqLO)
- 
+ * [Tech interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+ * [How To Get More Job Offers With This Unexpected Tactic](https://medium.com/the-mission/how-to-get-more-job-offers-with-this-unexpected-tactic-f0e935f59437)
+
 
 ## Coding
 
  * [Book - Intro to Programming using Java](https://www.amazon.com/gp/product/0321498054/)
  * [Book - Intro to Programming using Python](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/)
  * [Book - Discovering Computer Science](https://www.amazon.com/gp/product/148225414X/)
- 
+
 
 ## Coding Competition
 
@@ -62,7 +64,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [CodeWars](http://codewars.com)
  * [CodinGame](http://codingame.com)
  * [Codebat](http://codingbat.com)
- 
+
 
 ## Database
 
@@ -77,15 +79,15 @@ Useful resources we've found that are worth sharing and remembering.
 
  * [Book - Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
  * [Book - Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
- 
- 
+
+
 ## Distributed / Parallel Computing
 
  * [Book - High Performance Cluster Computing: Architectures and Systems Vol 1](https://www.amazon.com/gp/product/0130137847/)
  * [Book - High Performance Cluster Computing: Programming and Applications Vol 2](https://www.amazon.com/gp/product/0130137855/)
  * [Book - Art of Multiprocessor Programming, Revised](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376/)
  * [Book - Handbook of Parallel Computing](https://www.amazon.com/Handbook-Parallel-Computing-Applications-Information-ebook/dp/B00A8SLW6U/)
- 
+
 
 ## Images (Stock)
 
@@ -104,7 +106,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [YouTube - JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
  * [ESLint - Pluggable Javascript Linter](https://eslint.org/)
  * [ESLint - List of Available Rules](https://eslint.org/docs/rules/)
- 
+
 
 ## Jobs
 
@@ -117,7 +119,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Ask HN: Who's Hiring?](https://news.ycombinator.com/item?id=14688684)
  * [Browser Console HN Job Search Script](https://gist.github.com/meiamsome/94c1aa5f0b431a21b5aa)
  * [Greppd](http://greppd.com/)
- 
+
 
 ## Math
 
@@ -141,8 +143,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Elon Musk about what great communication looks like](https://www.inc.com/justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html)
  * [Developer Cheat Sheets](https://devhints.io/)
  * [Best FrontEnd Hacking Cheat Sheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
- 
- 
+
+
 ## NodeJS
 
  * [X2 Framework for NodeJS](http://boylesoftware.com/blog/x2-framework-node-js/)
@@ -153,7 +155,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - High Peformance NodeJS](https://www.amazon.com/gp/product/1785286145)
  * [Book - Write Modern Web Apps with the MEAN Stack](https://www.amazon.com/gp/product/0133930157)
  * [NodeJS For Mobile Apps](http://www.janeasystems.com/blog/announcing-node-js-mobile-apps-true-node-js-runtime-android-ios/)
- 
+
 
 ## Posts from Bootcamped's `The Daily`
 
@@ -200,17 +202,17 @@ Useful resources we've found that are worth sharing and remembering.
  40. [Advice for Early Career Developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
  41. [What to Say When an Interviewer Asks: Where Do You See Yourself in 5 Years](https://www.cnbc.com/2017/10/31/how-to-answer-the-interview-question-where-do-you-see-yourself-in-5-years.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEXRMj1t7Rqm4PcWIxBCWPw%3D%3D)
  42. [What its Like to Be A Developer At...](https://increment.com/development/what-its-like-to-be-a-developer-at/)
- 
- 
+
+
 ## Regular Expressions
 
  * (VerbalExpressions)[https://github.com/VerbalExpressions/JSVerbalExpressions]
- 
- 
+
+
 ## Salary
 
  * [Wage Distribution](https://datausa.io/profile/soc/151131/#wage_distribution)
- 
+
 
 ## Security
 
@@ -224,24 +226,24 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Computer Systems - A Programmer's Perspective](https://www.amazon.com/dp/013409266X/)
  * [Commuting with a Software Engineer Series](https://www.youtube.com/channel/UCGn67kWU8QXIFFa6ntfkRVQ)
  * [Learn Ruby with Edgecase Ruby Koans](http://rubykoans.com/)
- 
- 
+
+
 ## Startuping
 
  * [Book - The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
- 
- 
+
+
 ## System Design
 
  * [via HiredInTech](https://www.hiredintech.com/courses/system-design)
- 
- 
+
+
 ## UI/UX
 
  * [Adobe Experience Design BETA](http://www.adobe.com/products/experience-design.html)
- * [36 Useful Resources for UI/UX Designers](https://dev.to/iriskatastic/36-useful-resources-for-ui-and-ux-designers-61h) 
+ * [36 Useful Resources for UI/UX Designers](https://dev.to/iriskatastic/36-useful-resources-for-ui-and-ux-designers-61h)
  * [5 Design Books Every UX Designer Should Read](https://uxplanet.org/5-design-books-every-ux-designer-should-read-b4f81361d02c?gi=8c7348b5c528)
- 
+
 
 ## Webby Stuff
 
@@ -256,7 +258,3 @@ Useful resources we've found that are worth sharing and remembering.
  * [Client-Side vs Server-Side Rendering: Why it's Not All Black and White](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d)
  * [Responsive Design Best Practices](https://uxplanet.org/responsive-design-best-practices-c6d3f5fd163b)
  * [Web Development Explained to a Time Traveler from 10 Years Ago](https://medium.freecodecamp.org/web-development-explained-to-a-time-traveler-from-ten-years-ago-600fad81170d)
- 
- 
- 
- 
