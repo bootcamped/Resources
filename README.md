@@ -143,6 +143,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Elon Musk about what great communication looks like](https://www.inc.com/justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html)
  * [Developer Cheat Sheets](https://devhints.io/)
  * [Best FrontEnd Hacking Cheat Sheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+ * [Introducing freeCodeCamp Talks: awesome tech talks you can watch for free
+](https://medium.freecodecamp.org/introducing-freecodecamp-talks-awesome-tech-talks-you-can-watch-for-free-55e5d96e2fa5)
 
 
 ## NodeJS
