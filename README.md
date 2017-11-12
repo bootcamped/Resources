@@ -7,7 +7,8 @@ Useful resources we've found that are worth sharing and remembering.
 
  * [The Morning Paper](https://blog.acolyer.org/)
  * [47 Newsletters for Programmers and Developers](https://www.loggly.com/blog/newsletters-for-developers-and-programmers/?utm_source=LinkInPost&utm_medium=social-media&utm_campaign=SocialPush)
-
+ * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+ 
 
 ## Amazon Cloudy Stuff
 
@@ -34,7 +35,6 @@ Useful resources we've found that are worth sharing and remembering.
  * [Average to Googler in 4 Weeks](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri)
  * [How to Ace your Amazon Tech Interview](https://www.paysa.com/blog/2017/06/27/how-to-ace-your-amazon-tech-job-interview/)
  * [Jr. Engineer's Job Search Strategy](https://hackernoon.com/the-junior-engineers-job-search-strategy-guide-69c98e396483)
- * [System Design Primer](https://github.com/donnemartin/system-design-primer)
  * [Teach Yourself CS](https://teachyourselfcs.com/)
  * [Youtube: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
  * [30 Best Practices for SoftDev and Testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing?imm_mid=0f210a&cmp=em-prog-na-na-newsltr_20170527)
@@ -75,11 +75,12 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - SQL Antipatterns: Avoiding Pitfalls of Database Programming](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)
 
 
-## Data Structures
+## Data Structures & Algorithms
 
  * [Book - Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
  * [Book - Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
-
+ * [How to Solve Any Dynamic Programming Problem](https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771)
+ 
 
 ## Distributed / Parallel Computing
 
@@ -143,9 +144,10 @@ Useful resources we've found that are worth sharing and remembering.
  * [Elon Musk about what great communication looks like](https://www.inc.com/justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html)
  * [Developer Cheat Sheets](https://devhints.io/)
  * [Best FrontEnd Hacking Cheat Sheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
- * [Introducing freeCodeCamp Talks: awesome tech talks you can watch for free
-](https://medium.freecodecamp.org/introducing-freecodecamp-talks-awesome-tech-talks-you-can-watch-for-free-55e5d96e2fa5)
-
+ * [Introducing freeCodeCamp Talks: awesome tech talks you can watch for free](https://medium.freecodecamp.org/introducing-freecodecamp-talks-awesome-tech-talks-you-can-watch-for-free-55e5d96e2fa5)
+ * [After a Week I Admit VSCode is A Better Editor than EMACS](https://swizec.com/blog/vscode-better-editor-emacs/swizec/7921)
+ * [MacBook Pro Web Deveoper Setup](https://medium.com/@tretuna/macbook-pro-web-developer-setup-from-clean-slate-to-dev-machine-1befd4121ba8)
+ 
 
 ## NodeJS
 
@@ -158,6 +160,11 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Write Modern Web Apps with the MEAN Stack](https://www.amazon.com/gp/product/0133930157)
  * [NodeJS For Mobile Apps](http://www.janeasystems.com/blog/announcing-node-js-mobile-apps-true-node-js-runtime-android-ios/)
 
+
+## Operating Systems
+
+ * [nixCraft: The Best Linux Blog in the Universe](https://twitter.com/nixcraft/status/929046990947696640)
+ 
 
 ## Posts from Bootcamped's `The Daily`
 
@@ -204,7 +211,13 @@ Useful resources we've found that are worth sharing and remembering.
  40. [Advice for Early Career Developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
  41. [What to Say When an Interviewer Asks: Where Do You See Yourself in 5 Years](https://www.cnbc.com/2017/10/31/how-to-answer-the-interview-question-where-do-you-see-yourself-in-5-years.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEXRMj1t7Rqm4PcWIxBCWPw%3D%3D)
  42. [What its Like to Be A Developer At...](https://increment.com/development/what-its-like-to-be-a-developer-at/)
-
+ 43. [47 Newsletters for Programmers and Developers](https://www.loggly.com/blog/newsletters-for-developers-and-programmers/?utm_source=LinkInPost&utm_medium=social-media&utm_campaign=SocialPush)
+ 44. [Don't be a softwre Engineer, be a Software Artist](https://hackernoon.com/dont-be-a-software-engineer-be-a-software-artist-204dbd47e8ca)
+ 45. [Crafting Better Code Reviews](https://dev.to/vaidehijoshi/crafting-better-code-reviews)
+ 46. [I Interviewed at 5 Top Companies in SV and got 5 Offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+ 47. [Stop Using .IO Domain Names for Production Traffic](https://hackernoon.com/stop-using-io-domain-names-for-production-traffic-b6aa17eeac20)
+ 48. [Elon Musk Quoted Degrees Don't Matter](https://www.linkedin.com/pulse/elon-musk-quoted-degrees-dont-matter-so-why-do-resumes-oswald/)
+ 
 
 ## Regular Expressions
 
@@ -228,7 +241,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Book - Computer Systems - A Programmer's Perspective](https://www.amazon.com/dp/013409266X/)
  * [Commuting with a Software Engineer Series](https://www.youtube.com/channel/UCGn67kWU8QXIFFa6ntfkRVQ)
  * [Learn Ruby with Edgecase Ruby Koans](http://rubykoans.com/)
-
+ * [Softwre Development Methods Explained with Cars](https://toggl.com/developer-methods-infographic)
+ 
 
 ## Startuping
 
@@ -238,6 +252,7 @@ Useful resources we've found that are worth sharing and remembering.
 ## System Design
 
  * [via HiredInTech](https://www.hiredintech.com/courses/system-design)
+ * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 
 ## UI/UX
