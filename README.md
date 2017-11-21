@@ -107,6 +107,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [YouTube - JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
  * [ESLint - Pluggable Javascript Linter](https://eslint.org/)
  * [ESLint - List of Available Rules](https://eslint.org/docs/rules/)
+ * [Top Javascript Cheatsheets and Reference Guides](https://speckyboy.com/javascript-cheatsheets/)
 
 
 ## Jobs
@@ -120,6 +121,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [Ask HN: Who's Hiring?](https://news.ycombinator.com/item?id=14688684)
  * [Browser Console HN Job Search Script](https://gist.github.com/meiamsome/94c1aa5f0b431a21b5aa)
  * [Greppd](http://greppd.com/)
+ * [Open AI Jobs](https://openai.com/jobs/)
 
 
 ## Math
@@ -217,11 +219,17 @@ Useful resources we've found that are worth sharing and remembering.
  46. [I Interviewed at 5 Top Companies in SV and got 5 Offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
  47. [Stop Using .IO Domain Names for Production Traffic](https://hackernoon.com/stop-using-io-domain-names-for-production-traffic-b6aa17eeac20)
  48. [Elon Musk Quoted Degrees Don't Matter](https://www.linkedin.com/pulse/elon-musk-quoted-degrees-dont-matter-so-why-do-resumes-oswald/)
+ 49. [8 Proven Performance Practices from Billionairs and Elite Athletes](https://medium.com/@benjaminhardy/8-proven-performance-practices-from-billionaires-and-elite-athletes-80c0683a9dcf)
+ 50. [Microsoft and Github Team Up to take Git Virtual File System to MacOS and Linux](https://arstechnica.com/gadgets/2017/11/microsoft-and-github-team-up-to-take-git-virtual-file-system-to-macos-linux/)
+ 51. [The 5 Problem Solving Skills of Great Software Developers](https://dev.to/lpasqualis/the-5-problem-solving-skills-of-great-software-developers-4e6)
  
 
 ## Regular Expressions
 
- * (VerbalExpressions)[https://github.com/VerbalExpressions/JSVerbalExpressions]
+ * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
+
+## Resume Help
+ * [139 Action Verbs to Make your Resume Stand Out](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out)
 
 
 ## Salary
