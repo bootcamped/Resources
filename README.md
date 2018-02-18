@@ -1,4 +1,4 @@
-# Resources
+﻿# Resources
 
 Useful resources we've found that are worth sharing and remembering.
 
@@ -49,14 +49,21 @@ Useful resources we've found that are worth sharing and remembering.
  * [Practice Live Coding Interviews](https://www.pramp.com/invt/dmo0XBbr5WFoB7ZrEqLO)
  * [Tech interview Handbook](https://github.com/yangshun/tech-interview-handbook)
  * [How To Get More Job Offers With This Unexpected Tactic](https://medium.com/the-mission/how-to-get-more-job-offers-with-this-unexpected-tactic-f0e935f59437)
-
+ * [Book - That's Not How Much They Pay.  That's How Much They Pay You](https://www.amazon.com/Thats-Not-Much-They-Pay-ebook/dp/B00V2ARXMA/)
+ * [Failed 9 Tech Interviews in the Last 6 Months, I Just Can't Take it Anymore](https://www.quora.com/Failed-in-9-tech-interviews-in-the-last-6-months-I-just-cant-take-it-anymore-what-should-I-do)
+ * [10 Free Programming Books You Should Read in 2018](https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018)
+ * [Debugging Your Front-End Like Its 2019](http://krasimirtsonev.com/blog/article/debugging-your-front-end-like-is-2019)
+ 
 
 ## Coding
 
  * [Book - Intro to Programming using Java](https://www.amazon.com/gp/product/0321498054/)
  * [Book - Intro to Programming using Python](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/)
  * [Book - Discovering Computer Science](https://www.amazon.com/gp/product/148225414X/)
-
+ * [Top 10 Truly Bizarre Programming Languages](https://listverse.com/2011/02/17/top-10-truly-bizarre-programming-languages/)
+ * [30 Seconds of Code](https://30secondsofcode.org/)
+ * [Top 10 JavaScript Errors](https://rollbar.com/blog/top-10-javascript-errors/)
+ 
 
 ## Coding Competition
 
@@ -64,6 +71,7 @@ Useful resources we've found that are worth sharing and remembering.
  * [CodeWars](http://codewars.com)
  * [CodinGame](http://codingame.com)
  * [Codebat](http://codingbat.com)
+ * [CodeFights](http://codefights.com)
 
 
 ## Database
@@ -73,13 +81,15 @@ Useful resources we've found that are worth sharing and remembering.
  * [SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
  * [Book - SQL Performance Explained](https://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/)
  * [Book - SQL Antipatterns: Avoiding Pitfalls of Database Programming](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)
-
+ * [Central State Management in Apollo Using Apollo-Link-State](http://hptechblogs.com/central-state-management-in-apollo-using-apollo-link-state/)
+ 
 
 ## Data Structures & Algorithms
 
  * [Book - Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
  * [Book - Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
  * [How to Solve Any Dynamic Programming Problem](https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771)
+ * [BaseCS Video - Linked Lists](https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8)
  
 
 ## Distributed / Parallel Computing
@@ -222,7 +232,23 @@ Useful resources we've found that are worth sharing and remembering.
  49. [8 Proven Performance Practices from Billionairs and Elite Athletes](https://medium.com/@benjaminhardy/8-proven-performance-practices-from-billionaires-and-elite-athletes-80c0683a9dcf)
  50. [Microsoft and Github Team Up to take Git Virtual File System to MacOS and Linux](https://arstechnica.com/gadgets/2017/11/microsoft-and-github-team-up-to-take-git-virtual-file-system-to-macos-linux/)
  51. [The 5 Problem Solving Skills of Great Software Developers](https://dev.to/lpasqualis/the-5-problem-solving-skills-of-great-software-developers-4e6)
- 
+ 52. [Stories from 300 devs who got their first job in their 30,40,50s](https://medium.freecodecamp.org/stories-from-300-developers-who-got-their-first-tech-job-in-their-30s-40s-and-50s-64306eb6bb27)
+ 53. [Why SQL is beating NoSQL and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
+ 54. [Monolith vs. Microservices](https://medium.freecodecamp.org/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531)
+ 55. [Ultimate Guide to Javascript frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+ 56. [Is PostreSQL your next JSON database?](https://compose.com/articles/is-postgresql-your-next-json-database/)
+ 57. [An open letter to less experienced developers](https://hackernoon.com/an-open-letter-to-less-experienced-developers-c33c16ea5e88)
+ 58. [The 25 most popular icebreaker questions based on your fears of data](https://m.signalvnoise.com/the-25-most-popular-icebreaker-questions-based-on-four-years-of-data-893df9b27531)
+ 59. [One useful piece of advice to fight the imposter syndrome](https://dev.to/ice_lenor/one-useful-advice-to-fight-the-impostor-syndrome-3p8)
+ 60. [The cranky developer manifesto](https://dev.to/codemouse92/the-cranky-developer-manifesto--24km)
+ 61. [This engineer created a fool-proof plan to overcome shyness and got a job](http://www.businessinsider.com/how-this-engineer-hacked-her-career-and-became-a-gm-at-microsoft-2018-2)
+ 62. [7 Fucking rules for developers to get shit done](https://dev.to/pradeep_io/7-fucking-rules-for-developers-to-get-shit-done)
+ 63. [Who killed the jr. developer?](https://www.reddit.com/r/cscareerquestions/comments/7xft3s/medium_who_killed_the_junior_developer/)
+ 64. [Why IBM wants to hire employees who don't have a degree](https://www.cnbc.com/amp/2017/11/07/why-ibm-wants-to-hire-employees-who-dont-have-a-4-year-college-degree.html)
+ 65. [Everything easy is hard again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
+ 66. [How I applied lessons learned from a failed technical interview to get 5 job offers](https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d)
+ 67. [9 Tips to slay your technical interviews and land your dream job](https://blog.pramp.com/slay-technical-interviews-land-dream-job-9-tips-65d3375ee460)
+
 
 ## Regular Expressions
 
@@ -250,7 +276,8 @@ Useful resources we've found that are worth sharing and remembering.
  * [Commuting with a Software Engineer Series](https://www.youtube.com/channel/UCGn67kWU8QXIFFa6ntfkRVQ)
  * [Learn Ruby with Edgecase Ruby Koans](http://rubykoans.com/)
  * [Softwre Development Methods Explained with Cars](https://toggl.com/developer-methods-infographic)
- 
+ * [Preferring Code Over Comments](https://javascriptplayground.com/prefer-code-over-comments/)
+
 
 ## Startuping
 
@@ -262,6 +289,11 @@ Useful resources we've found that are worth sharing and remembering.
  * [via HiredInTech](https://www.hiredintech.com/courses/system-design)
  * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+
+## Testing & TDD
+
+ * [RSpec Testing for Beginners - Part 1](https://code.tutsplus.com/articles/rspec-testing-for-beginners-part-1--cms-26716)
+ 
 
 ## UI/UX
 
@@ -283,3 +315,10 @@ Useful resources we've found that are worth sharing and remembering.
  * [Client-Side vs Server-Side Rendering: Why it's Not All Black and White](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d)
  * [Responsive Design Best Practices](https://uxplanet.org/responsive-design-best-practices-c6d3f5fd163b)
  * [Web Development Explained to a Time Traveler from 10 Years Ago](https://medium.freecodecamp.org/web-development-explained-to-a-time-traveler-from-ten-years-ago-600fad81170d)
+ * [Udemy - GraphQL with React - The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/learn/v4/overview)
+ * [Udemy - Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/overview)
+ * [Udemy - Modern React with Reduc](https://www.udemy.com/react-redux/#instructor)
+ * [Egghead - The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+ * [React Native News / React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps)
+ * [CSS Grid](https://cssgrid.io/)
+ 
